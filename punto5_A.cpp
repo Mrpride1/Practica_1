@@ -1,3 +1,9 @@
+/*
+*Autor: Miguel Guatibonza
+*descripcion: programa recibe un numero en base diez, y devuelve en binario
+*Fecha: 05-04-17
+*/
+
 #include <iostream>
 #include <string>
 
