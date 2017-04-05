@@ -1,3 +1,10 @@
+/*
+*Autor: Miguel Guatibonza - 1759699
+*descripcion: programa verifica si existe empleado y modifica sagun el caso
+*fecha: 5-04-17
+*/
+
+
 #include <iostream>
 #include <vector>
 #include <map>
